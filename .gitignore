@@ -1,0 +1,21 @@
+# R / RStudio
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+/.quarto/
+
+# targets cache (rebuilt by tar_make())
+_targets/
+
+# renv project library (packages are restored from renv.lock)
+renv/library/
+renv/staging/
+
+# Local working material: not part of the public repository
+_archive/
+_current/
+
+# Figure 1 reproduces copyrighted material (Jenny 1958, (c) ESA); kept locally only
+02-output/static/

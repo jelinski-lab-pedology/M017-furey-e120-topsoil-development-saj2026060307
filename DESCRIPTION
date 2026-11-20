@@ -1,0 +1,24 @@
+Type: Project
+Title: Plant biodiversity as a driver of soil melanization (e120)
+Description: Analysis code for Furey et al., "Jenny's thought experiment
+    revisited: Plant biodiversity as a driver of soil melanization".
+Depends: R (>= 4.1)
+Imports:
+    aqp,
+    car,
+    cowplot,
+    dplyr,
+    emmeans,
+    forcats,
+    ggplot2,
+    mgcv,
+    nlme,
+    purrr,
+    readr,
+    stringr,
+    targets,
+    tibble,
+    tidyr
+Suggests:
+    lintr,
+    styler
