@@ -8,7 +8,7 @@ Code and data to reproduce every figure and statistic in:
 
 | | |
 |---|---|
-| Repository | https://github.com/XXXX/XXXX |
+| Repository | https://github.com/jelinski-lab-pedology/M017-furey-e120-topsoil-development-saj2026060307 |
 | Archived code (Zenodo, all versions) | https://doi.org/10.5281/zenodo.XXXXXXX |
 | Data package (EDI) | https://doi.org/10.6073/pasta/XXXX |
 | SOC time series (EDI) | Tilman, D. Soil carbon: Biodiversity II. knb-lter-cdr.423.10 |
