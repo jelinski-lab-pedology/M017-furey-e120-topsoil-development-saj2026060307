@@ -2,7 +2,7 @@
 
 Code and data to reproduce every figure and statistic in:
 
-> Furey, G. N., Jelinski, N. A., LaBine, K., Effertz, W., & Tilman, D. (in review).
+> Furey, G. N., Effertz, W., LaBine, K. M., Tilman, D., & Jelinski, N. A. (in review).
 > Jenny's thought experiment revisited: Plant biodiversity as a driver of soil
 > melanization. *Soil Science Society of America Journal*.
 
