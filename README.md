@@ -92,7 +92,7 @@ Fourteen plots that were discontinued are excluded (`discontinued_plots` in
 `01-code/R/data.R`). Plot treatments (species richness and functional group) are
 taken from the planting information in this file.
 
-**Quantitative colour.** `data_e120_quantitative_color.csv` is built from the
+**Quantitative color.** `data_e120_quantitative_color.csv` is built from the
 instrument exports by `01-code/data-prep/build_quantitative_color.R`. Three dry
 samples were re-measured in January 2021 because the original readings were
 judged too variable by the lab technician (plot 265 at 20 cm; plot 126 at 70 and
