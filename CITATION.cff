@@ -7,6 +7,14 @@ title: >-
   Code and data for "Jenny's thought experiment revisited: Plant biodiversity
   as a driver of soil melanization"
 version: 1.0.0
+doi: 10.5281/zenodo.24419504
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24419504
+    description: Concept DOI (all versions)
+  - type: doi
+    value: 10.5281/zenodo.24419505
+    description: Version DOI for v1.0.0
 date-released: 2026-11-21
 license: MIT
 repository-code: "https://github.com/jelinski-lab-pedology/M017-furey-e120-topsoil-development-saj2026060307"

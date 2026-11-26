@@ -9,7 +9,7 @@ Code and data to reproduce every figure and statistic in:
 | | |
 |---|---|
 | Repository | https://github.com/jelinski-lab-pedology/M017-furey-e120-topsoil-development-saj2026060307 |
-| Archived code (Zenodo, all versions) | https://doi.org/10.5281/zenodo.XXXXXXX |
+| Archived code (Zenodo, all versions) | https://doi.org/10.5281/zenodo.24419504 |
 | Data package (EDI) | https://doi.org/10.6073/pasta/XXXX |
 | SOC time series (EDI) | Tilman, D. Soil carbon: Biodiversity II. knb-lter-cdr.423.10 |
 
@@ -109,6 +109,13 @@ moisture state × depth.
 Code follows the [tidyverse style guide](https://style.tidyverse.org/), applied
 with `styler::style_dir("01-code")` and checked with `lintr::lint_dir("01-code")`
 (settings in `.lintr`).
+
+## How to cite
+
+Please cite the article and, if you use the code, the Zenodo archive. Citation
+details are in `CITATION.cff` (GitHub: "Cite this repository"). Release
+`v1.0.0` (https://doi.org/10.5281/zenodo.24419505) is the version that matches
+the revised manuscript submitted to SSSAJ.
 
 ## Licence
 

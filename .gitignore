@@ -19,3 +19,8 @@ _current/
 
 # Figure 1 reproduces copyrighted material (Jenny 1958, (c) ESA); kept locally only
 02-output/static/
+
+# Claude Code project files (local only)
+CLAUDE.md
+CLAUDE.local.md
+.claude/
